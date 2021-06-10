@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJECT PROPOSAL</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body class="but">
+    <header>
+        <a href="index.html" class="logo">Healthy Life</a>
+        <nav>
+          <ul class="menu">
+               <li><a href="exercise.html">Exercises</a></li>
+                <li><a href="quotes.html">Quotes</a></li>
+                <li><a href="About.html">About us</a></li>
+				<li><a href="contact.html">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+
+        <div class="contact">
+        <h1>CONTACT US</h1>
+    
+        </div>
+
+        <div class="cons">
+		<p>Facebook Page: Health Tips</p>
+        <p>Mobile number: 09518680909</p>
+		<p>Instagram @ <u>healthtips</u></p>
+        <p>Gmail: healthtips@gmail.com</p>
+        <p>Mat. Gasan, Gasan, Marinduque</p>
+        
+        </div>
+        </div>
+        </div>
+        </div>
